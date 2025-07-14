@@ -25,7 +25,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "client/Token.h"
+#include "Token.h"
 #include "datatransfer.pb.h"
 #include "DataTransferProtocolSender.h"
 #include "Exception.h"
