@@ -28,7 +28,7 @@
 #ifndef _HDFS_LIBHDFS_3_CLIENT_DATATRANSFERPROTOCOL_H_
 #define _HDFS_LIBHDFS_3_CLIENT_DATATRANSFERPROTOCOL_H_
 
-#include "client/Token.h"
+#include "Token.h"
 #include "server/DatanodeInfo.h"
 #include "server/ExtendedBlock.h"
 
